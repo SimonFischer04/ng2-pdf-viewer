@@ -75,5 +75,10 @@
     "typescript": "~5.4.5",
     "webpack-bundle-analyzer": "^4.7.0",
     "zone.js": "~0.14.7"
+  },
+  "overrides": {
+    "pdfjs-dist": {
+      "canvas": "3.0.0-rc2"
+    }
   }
 }
