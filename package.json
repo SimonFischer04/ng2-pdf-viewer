@@ -77,8 +77,6 @@
     "zone.js": "~0.14.7"
   },
   "overrides": {
-    "pdfjs-dist": {
       "canvas": "3.0.0-rc2"
-    }
   }
 }
